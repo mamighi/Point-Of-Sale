@@ -1,0 +1,16 @@
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\bin\x86\Debug\Point Of Sale.exe.config
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\bin\x86\Debug\Point Of Sale.exe
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\bin\x86\Debug\Point Of Sale.pdb
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.AddAccount.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.AddProduct.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.EditProduct.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.MainForm.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.Properties.Resources.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point Of Sale.csproj.GenerateResource.Cache
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point Of Sale.exe
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point Of Sale.pdb
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.Sale.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.ViewSale.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point_Of_Sale.EditAccount.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\x86\Debug\Point Of Sale.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+Smart Card Reader Name Len          //:1A                                   //
+Smart Card Reader Name              //:Athena ASEDrive IIIe USB 0           //
+Smart Card Reader Name Len          //:0C                                   //
+Smart Card Reader Name              //:ACS ACR38U 0           //
+Smart Card Reader Name Len          :0D                                   //
+Smart Card Reader Name              :Sankyo ICT3K5		//
+Smart Card Reader Name Len          //:0F                                   //
+Smart Card Reader Name              //:Neuron MSA-790S		//
+COM Port Name Len                   :04				//
+COM Port Name                       :COM4			//

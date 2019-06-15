@@ -1,0 +1,55 @@
+
+
+InitializeSagemEpp()...
+
+LoadLibrary(SagemEppINT1217.dll) ERROR
+
+Initialize3k5()...
+
+InitializeNeuron()...
+
+LoadLibrary(NeuronReader.dll) ERROR
+
+InitializeSagemEpp()...
+
+LoadLibrary(SagemEppINT1217.dll) ERROR
+
+Initialize3k5()...
+
+InitializeNeuron()...
+
+LoadLibrary(NeuronReader.dll) ERROR
+
+InitializeSagemEpp()...
+
+LoadLibrary(SagemEppINT1217.dll) ERROR
+
+Initialize3k5()...
+
+InitializeNeuron()...
+
+LoadLibrary(NeuronReader.dll) ERROR
+
+OpenReader():Sankyo ICT3K5 Com Port:COM4
+
+TakeCard
+
+CheckConnect3K5 == 0
+
+CheckConnect3K5 == 0
+
+CheckConnect3K5 == 0
+
+CheckConnect3K5 == 1
+
+00A404000E_315041592E5359532E4444463031
+
+CheckConnect3K5 == 0
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0

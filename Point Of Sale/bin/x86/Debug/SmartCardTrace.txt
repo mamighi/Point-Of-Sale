@@ -1,0 +1,11 @@
+
+
+Init SmartCard DLL
+
+
+InitializeSagemEpp()...
+LoadLibrary(SagemEppINT1217.dll) ERROR
+Initialize3k5()...
+InitializeNeuron()...
+LoadLibrary(NeuronReader.dll) ERROR
+GetMagData

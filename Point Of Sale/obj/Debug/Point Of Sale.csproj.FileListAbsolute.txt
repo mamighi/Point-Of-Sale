@@ -1,0 +1,23 @@
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.exe.config
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.exe
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.pdb
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.csprojResolveAssemblyReference.cache
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.MainForm.resources
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.Properties.Resources.resources
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.csproj.GenerateResource.Cache
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.exe
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.pdb
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.AddAccount.resources
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.AddProduct.resources
+c:\users\mohammad\documents\visual studio 2012\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.EditProduct.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.exe.config
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.exe
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.pdb
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.AddAccount.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.AddProduct.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.EditProduct.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.MainForm.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point_Of_Sale.Properties.Resources.resources
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.csproj.GenerateResource.Cache
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.exe
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.pdb

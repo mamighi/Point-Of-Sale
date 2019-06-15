@@ -1,0 +1,1112 @@
+
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType ok
+track = 14761739001010010=20122010123456789
+bin =  1F 31 1F 34 37 36 31 37 33 39 30 30 31 30 31 30 30 31 30 3D 32 30 31 32 32 30 31 30 31 32 33 34 35 36
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+CheckConnect()... Yes
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+EjectCard()...
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType ok
+track = 14761739001010010=20122010123456789
+bin =  1F 31 1F 34 37 36 31 37 33 39 30 30 31 30 31 30 30 31 30 3D 32 30 31 32 32 30 31 30 31 32 33 34 35 36
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType ok
+track = 14761739001010010=20122010123456789
+bin =  1F 31 1F 34 37 36 31 37 33 39 30 30 31 30 31 30 30 31 30 3D 32 30 31 32 32 30 31 30 31 32 33 34 35 36
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B5486732056696842^YALIN/KONSTANTIN          ^1506201353240000000000347000000
+bin =  00 42 35 34 38 36 37 33 32 30 35 36 36 39 36 38 34 32 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 35 33 32 34 30 30 30 30 30 30 30 30 30 30 33 34 37 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B5486732056696842^YALIN/KONSTANTIN          ^1506201353240000000000347000000
+bin =  00 42 35 34 38 36 37 33 32 30 35 36 36 39 36 38 34 32 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+CheckConnect()... Yes
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+SendApduIn()...   SendApduIn() err Reply.replyType =  01 00 00 00
+EjectCard()...
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4276400021247938^YALIN/KONSTANTIN          ^1212201194510000000000571000000
+bin =  00 42 34 32 37 36 34 30 30 30 32 31 32 34 37 39 33 38 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 32 31 32 32 30 31 31 39 34 35 31 30 30 30 30 30 30 30 30 30 30 35 37 31 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4276400021247938^YALIN/KONSTANTIN          ^1212201194510000000000571000000
+bin =  00 42 34 32 37 36 34 30 30 30 32 31 32 34 37 39 33 38 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType err
+MyExecuteCommand() ok
+Reply.replyType ok
+track = 14761739001010010=20122010123456789
+bin =  1F 31 1F 34 37 36 31 37 33 39 30 30 31 30 31 30 30 31 30 3D 32 30 31 32 32 30 31 30 31 32 33 34 35 36
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B5486732056696842^YALIN/KONSTANTIN          ^1506201353240000000000347000000
+bin =  00 42 35 34 38 36 37 33 32 30 35 36 36 39 36 38 34 32 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 35 33 32 34 30 30 30 30 30 30 30 30 30 30 33 34 37 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B5486732056696842^YALIN/KONSTANTIN          ^1506201353240000000000347000000
+bin =  00 42 35 34 38 36 37 33 32 30 35 36 36 39 36 38 34 32 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4276400021247938^YALIN/KONSTANTIN          ^1212201194510000000000571000000
+bin =  00 42 34 32 37 36 34 30 30 30 32 31 32 34 37 39 33 38 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 32 31 32 32 30 31 31 39 34 35 31 30 30 30 30 30 30 30 30 30 30 35 37 31 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4276400021247938^YALIN/KONSTANTIN          ^1212201194510000000000571000000
+bin =  00 42 34 32 37 36 34 30 30 30 32 31 32 34 37 39 33 38 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No
+TakeCard()...
+WaitCardIn()...
+WaitCardIn() done...
+TakeCard() OK
+GetMagData()...
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20 20 20 20 20 20 20 20 20 5E 31 35 30 36 32 30 31 33 38 34 35 34 30 30 30 30 30 30 30 30 30 30 32 33 32 30 30 30 30 30
+MyExecuteCommand() ok
+Reply.replyType ok
+track = B4154812059197453^YALIN/KONSTANTIN          ^1506201384540000000000232000000
+bin =  00 42 34 31 35 34 38 31 32 30 35 39 31 39 37 34 35 33 5E 59 41 4C 49 4E 2F 4B 4F 4E 53 54 41 4E 54 49 4E 20 20
+MyExecuteCommand() ok
+Reply.replyType err
+
+
+Atr()...
+GetProtocol()...
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+CheckConnect()... Yes
+SendApduIn()...   OK
+SendApduOut()...  OK
+CheckConnect()... Yes
+CheckConnect()... Yes
+EjectCard()...
+CheckConnect()... Yes
+CheckConnect()... No

@@ -1,0 +1,31 @@
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\bin\Release\EMVExampleDotNet.exe
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\bin\Release\EMVExampleDotNet.pdb
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.EMVExample.resources
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.Properties.Resources.resources
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.csproj.GenerateResource.Cache
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.exe
+C:\Change\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.pdb
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.exe
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.pdb
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\bin\Release\EMVExampleDotNet.exe
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\bin\Release\EMVExampleDotNet.pdb
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.EMVExample.resources
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.Properties.Resources.resources
+C:\Change\YalkoSite\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.csproj.GenerateResource.Cache
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.exe
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.pdb
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\bin\Release\EMVExampleDotNet.exe
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\bin\Release\EMVExampleDotNet.pdb
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\ResolveAssemblyReference.cache
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.EMVExample.resources
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.Properties.Resources.resources
+C:\EmvService\EMVService\Контракты\_eKassir Питербург\Support\EmvProject\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.csproj.GenerateResource.Cache
+C:\Users\mohammad\Desktop\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.exe
+C:\Users\mohammad\Desktop\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.pdb
+C:\Users\mohammad\Desktop\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\bin\Release\EMVExampleDotNet.exe
+C:\Users\mohammad\Desktop\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\bin\Release\EMVExampleDotNet.pdb
+C:\Users\mohammad\Desktop\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.EMVExample.resources
+C:\Users\mohammad\Desktop\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.Properties.Resources.resources
+C:\Users\mohammad\Desktop\EmvExample_VS2010Csharp\EmvExample_VS2010Csharp\EmvExample_CALLBACK\EMVExampleDotNet\obj\x86\Release\EMVExampleDotNet.csproj.GenerateResource.Cache

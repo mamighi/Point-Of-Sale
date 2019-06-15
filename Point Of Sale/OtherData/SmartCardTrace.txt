@@ -1,0 +1,1851 @@
+
+
+
+
+Init SmartCard DLL
+
+
+
+
+
+InitializeSagemEpp()...
+
+LoadLibrary(SagemEppINT1217.dll) ERROR
+
+Initialize3k5()...
+
+InitializeNeuron()...
+
+LoadLibrary(NeuronReader.dll) ERROR
+
+OpenReader():Sankyo ICT3K5 Com Port:COM4
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2661 
+
+SendApduOut > 00C0000026 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 3461 
+
+SendApduOut > 00C0000034 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000013_831108402008C8AF00F0501000000000008C14 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2010C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2021400 3K5...
+
+SendApduOut > 00B2031400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001F_4000000000C00000000001000000000000000008400643120726005C7D7CC7 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0090 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE400021_4000000000F000303000000001000000000000000008400643120726008940EECE 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 0000 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000000999090 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101003 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101004 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101005 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101006 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101007 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000000041010 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000000651010 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000099990100 3K5... 0000 
+
+EjectCard OK!
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2661 
+
+SendApduOut > 00C0000026 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 3461 
+
+SendApduOut > 00C0000034 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000013_831108402008C8AF00F0501000000000008C14 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2010C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2021400 3K5...
+
+SendApduOut > 00B2031400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001F_4000000000C0000000000100000000000000000840064312072600BBE2AE33 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0090 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE400021_4000000000F0003030000000010000000000000000084006431207260080A69671 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2661 
+
+SendApduOut > 00C0000026 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 3461 
+
+SendApduOut > 00C0000034 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000013_831108402008C8AF00F0501000000000008C14 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2010C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2021400 3K5...
+
+SendApduOut > 00B2031400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001F_4000000000C0000000000100000000000000000840064312072600186D1F5F 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0090 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE400021_4000000000F00030300000000100000000000000000840064312072600A8E5FCED 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_000000010000000000000000084008800000000643120726009D70B4FD 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400880000040064312072600EF6F7BCB 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000041010 3K5... 3C61 
+
+SendApduOut > 00C000003C 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2012C00 3K5...
+
+SendApduOut > 00B2022C00 3K5...
+
+SendApduOut > 00B2032C00 3K5...
+
+SendApduOut > 00B2042C00 3K5...
+
+SendApduOut > 00B2013400 3K5...
+
+SendApduOut > 00B2023400 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80002B_000000010000000000000000084008800000000643120726003A89A63914000000000000000000001F0302 3K5... 2B61 
+
+SendApduOut > 00C000002B 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001D_993680ED37FC0953303030300880000000E8651E860000000000000000 3K5... 2B61 
+
+SendApduOut > 00C000002B 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_00000001000000000000000008400880000000064312072600BC2F463F 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400880000040064312072600136A49AA 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 0000 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000000999090 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101003 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101004 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101005 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101006 3K5... 0000 
+
+
+
+SendApduIn > 00A4040008_A000000003101007 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000000041010 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000000651010 3K5... 0000 
+
+
+
+SendApduIn > 00A4040007_A0000099990100 3K5... 0000 
+
+EjectCard OK!
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_0000000100000000000000000840088000000006431207260003A7F40E 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_30300000000100000000000000000840088000004006431207260085827608 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_000000010000000000000000084008800000000643120726000ED60021 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_30300000000100000000000000000840088000004006431207260091E87264 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_000000010000000000000000084008800000000643120726009B34DA6A 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400880000040064312072600F3C40E5C 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_0000000100000000000000000840088000000006431207260085FF5579 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400880000040064312072600E0448FCD 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_00000001000000000000000008400880000000064312072600D0059240 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400880000040064312072600585A760E 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_000000010000000000000000084008800000000643120726004C29891A 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_30300000000100000000000000000840088000004006431207260060781D84 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 1761 
+
+SendApduOut > 00C0000017 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2161 
+
+SendApduOut > 00C0000021 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000004_83020840 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2010C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2021400 3K5...
+
+SendApduOut > 00B2031400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_00000001000000000000000008400000000000064312072600E44ECAC3 3K5... 2461 
+
+SendApduOut > 00C0000024 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400000000040064312072600749690F8 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2661 
+
+SendApduOut > 00C0000026 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 3461 
+
+SendApduOut > 00C0000034 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000013_831108402008C8AF00F0501000000000008C14 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2010C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2021400 3K5...
+
+SendApduOut > 00B2031400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001F_4000000000C00000000001000000000000000008400643120726000A51AF21 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0090 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE400021_4000000000F000303000000001000000000000000008400643120726000D72D5E4 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_000000010000000000000000084008800000000643120726002FBC36F4 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400880000040064312072600874DB175 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000041010 3K5... 3C61 
+
+SendApduOut > 00C000003C 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2012C00 3K5...
+
+SendApduOut > 00B2022C00 3K5...
+
+SendApduOut > 00B2032C00 3K5...
+
+SendApduOut > 00B2042C00 3K5...
+
+SendApduOut > 00B2013400 3K5...
+
+SendApduOut > 00B2023400 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80002B_00000001000000000000000008400880000000064312072600633B5CAC14000000000000000000001F0302 3K5... 2B61 
+
+SendApduOut > 00C000002B 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001D_993680ED37FC0953303030300880000000C1CD6ACE0000000000000000 3K5... 2B61 
+
+SendApduOut > 00C000002B 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 1761 
+
+SendApduOut > 00C0000017 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2161 
+
+SendApduOut > 00C0000021 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000004_83020840 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2010C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2021400 3K5...
+
+SendApduOut > 00B2031400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_0000000100000000000000000840000000000006431207260032730EB3 3K5... 2461 
+
+SendApduOut > 00C0000024 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_30300000000100000000000000000840000000004006431207260018C089C9 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
+
+TakeCard
+
+GetMagData
+
+
+
+SendApduIn > 00A404000E_315041592E5359532E4444463031 3K5... 2261 
+
+SendApduOut > 00C0000022 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2010C00 3K5...
+
+CheckConnect3K5 == 1
+
+SendApduOut > 00B2020C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 00A4040007_A0000000031010 3K5... 2E61 
+
+SendApduOut > 00C000002E 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80A8000002_8300 3K5... 1061 
+
+SendApduOut > 00C0000010 3K5...
+
+SendApduOut > 00B2020C00 3K5...
+
+SendApduOut > 00B2011400 3K5...
+
+SendApduOut > 00B2011C00 3K5...
+
+SendApduOut > 00B2021C00 3K5...
+
+SendApduOut > 00B2031C00 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE80001D_000000010000000000000000084008800000000643120726005AF12AFF 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 008200000A_993680ED37FC09533030 3K5... 0063 
+
+CheckConnect3K5 == 1
+
+
+
+SendApduIn > 80AE40001F_303000000001000000000000000008400880000040064312072600480B01A9 3K5... 1461 
+
+SendApduOut > 00C0000014 3K5...
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 1
+
+EjectCard OK!
+
+CheckConnect3K5 == 1
+
+CheckConnect3K5 == 0
